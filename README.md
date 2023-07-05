@@ -7,12 +7,14 @@
 
 - 🌱 I’m currently learning ----> **LLM,BERT,Transformers,GPT**
 
-- 💬 Ask me about ----> **Data Analysis,Data Visualization,Dashboarding,Machine Learning,Deep Learning,NLP,Computer Vision,Time Series Modeling.**
+- 💬 Ask me about ----> **Data Analysis,Data Visualization,Dashboarding,Machine Learning,Deep Learning,NLP,Computer Vision,Time Series Modeling,Statistics,Lean Six Sigma.**
 
 - 📫 How to reach me ----> **ds.nitish2@gmail.com**
   
 - 📄 Know about my experiences ----> **Have around 2.5 years of working experience at General Electric primarily focusing on manufacturing domain.**
 
+- 📝 Certification ----> **Data Science and AI(Nasscom ⭐) | Python(Nasscom ⭐)| SQL(Hackerrank) | Lean Six Sigma Green Belt(KPMG) | Six Sigma Yellow Belt(6sigmastudy)**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nitish-kumar-b6a534209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitish-kumar-b6a534209" height="30" width="40" /></a>
