@@ -13,7 +13,7 @@
   
 - 📄 Know about my experiences ----> **Have around 2.5 years of working experience at General Electric primarily focusing on manufacturing domain.**
 
-- 📝 Certification ----> **Data Science and AI(Nasscom ⭐) | Python(Nasscom ⭐)| SQL(Hackerrank) | Lean Six Sigma Green Belt(KPMG) | Six Sigma Yellow Belt(6sigmastudy)**
+- 📝 Certification ----> **Data Science and AI(Nasscom ⭐) | Python(Nasscom ⭐) | SQL(Hackerrank) | Lean Six Sigma Green Belt(KPMG) | Six Sigma Yellow Belt(6sigmastudy)**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
