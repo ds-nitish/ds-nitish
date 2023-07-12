@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-nitish&label=Profile%20views&color=0e75b6&style=flat" alt="ds-nitish" /> </p>
 
-- 🌱 I’m currently learning ---> **LLM,BERT,Transformers,GPT**
+- 🌱 I’m currently learning ---> **LLM,BERT,Transformers,GPT,GAN**
 
 - 💬 Ask me about ---> **Data Analysis,Data Visualization,Dashboarding,Machine Learning,Deep Learning,NLP,Computer Vision,Time Series Modeling,Statistics,Lean Six Sigma.**
 
